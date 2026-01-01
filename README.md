@@ -13,3 +13,5 @@ to develop computationally efficient mathematical models for building functional
 network construction, we will develop new computationally efficient inference and learning approaches that incorporate the spectral geometric 
 properties of graph Laplacian. We will demonstrate the use of the proposed network models in various applications to understand brain organizations 
 in multiscale levels.
+
+
