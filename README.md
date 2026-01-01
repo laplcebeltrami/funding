@@ -1,6 +1,6 @@
-## NSF 2010778 Novel Continuous Structural and Functional Networks and Prediction of Individual Cognition
+# NSF 2010778 Novel Continuous Structural and Functional Networks and Prediction of Individual Cognition
 
-# Goals
+### Goals
 This project will develop computationally efficient mathematical models for building  graph Laplacian based brain networks. 
 The project will produce new algorithms in network models, inferene and learning. The accompanying codes and processed data that will 
 serve as a testbed for the development of more advanced methods. The impact of the project goes beyond the intended applications and 
